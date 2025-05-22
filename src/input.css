@@ -11,3 +11,15 @@
     background-image: var(--svg-bg);
   }
 }
+
+@layer components {
+  /* .h1 {
+    @apply font-bold text-xl text-white;
+  }
+  .divtodo {
+    @apply ;
+  } */
+  .div-shadow {
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  }
+}
